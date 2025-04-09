@@ -57,6 +57,8 @@ Dark Mode
 Logout & secure token deletion
 
 
+https://github.com/varshanamde/task1-api-transactions/releases/tag/v1.0/app.debug.apk
+
 
 
 
