@@ -56,11 +56,8 @@ Encrypted token storage
 Dark Mode
 Logout & secure token deletion
 
-
-https://github.com/varshanamde/task1-api-transactions/releases/tag/v1.0/app.debug.apk
-
-
-
+## APK file uploaded in the Releases section.
+https://github.com/varshanamde/task1-api-transactions/releases/download/v1.0/app-debug.apk
 
   
 
