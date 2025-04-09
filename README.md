@@ -35,22 +35,6 @@ Encrypted token storage
 Dark Mode
 Logout & secure token deletion
 
-   cd YourApp
-Open in Android Studio.
-Sync Gradle and build the project.
+  
 
-
-## APK build instructions:
-
-Open Android Studio.
-Go to Build > Build Bundle(s) / APK(s) > Build APK(s).
-After build completes, you can find the APK at:
-app/build/outputs/apk/release/app-release.apk
-
-
-## Bonus Features Implemented:
-Biometric Authentication
-Encrypted token storage
-Dark Mode
-Logout & secure token deletion
 
